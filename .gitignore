@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Coverage
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Model checkpoints
+artifacts/
+*.pt
+*.pth
+
+# macOS
+.DS_Store
