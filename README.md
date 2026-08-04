@@ -1,4 +1,6 @@
-# Swin Transformer starter project
+# Swin Transformer for biomedical image captioning
+
+
 
 This folder contains a lightweight Swin-style transformer starter codebase for the biomedical image-captioning project.
 
